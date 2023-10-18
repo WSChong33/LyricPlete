@@ -11,6 +11,12 @@
 # production
 /build
 
+# frontend dependencies
+/frontend/node_modules
+
+# backend virtual environment
+/backend/venv
+
 # misc
 .DS_Store
 .env.local
