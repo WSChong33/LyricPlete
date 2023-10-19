@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45vh;
+  }
+  
+  .left-panel {
+    margin-left: 150px;
+    margin-right: 50px;
+  }
+  
+  .icon {
+    font-size: 2em;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 20px;
+  }
+
+  .microphone-container {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .lyric-display {
+    text-align: center;
+    width: 45%; 
+    min-height: 250px;
+    margin: 0 20px;
+  }
+  
+  .timer-display {
+    text-align: center;
+    width: 20%; 
+    min-height: 200px;
+    margin: 0 20px;
+  }
+
+  .speech-to-text-display {
+    margin-top: 80px;
+  }
+  
