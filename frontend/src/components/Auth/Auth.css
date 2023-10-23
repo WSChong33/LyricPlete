@@ -1,0 +1,17 @@
+.section-style {
+  height: 100vh;
+}
+
+.card-style {
+  border-radius: 1rem;
+  width: 100%;
+  max-width: 400px; /* Set a maximum width to avoid squashing on larger screens */
+}
+
+.google-button {
+  background-color: #dd4b39;
+}
+
+.facebook-button {
+  background-color: #3b5998;
+}
